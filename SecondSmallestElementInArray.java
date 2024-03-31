@@ -1,4 +1,4 @@
-class SecondSmallest {
+class SecondSmallestElementInArray{
     public static void main(String args[]) {
         int arr[] = {3, 6, 5, 6, 2};
         
